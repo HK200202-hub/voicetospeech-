@@ -40,5 +40,4 @@ A powerful web-based **Text-to-Speech** and **Voice-Controlled** assistant built
 
 ---
 
-## 📂 Project Structure
 
