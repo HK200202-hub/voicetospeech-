@@ -7,7 +7,8 @@ A powerful web-based **Text-to-Speech** and **Voice-Controlled** assistant built
 
 ## 📸 Screenshot
 
-![Screenshot](img/speech.png)
+<img width="929" alt="image" src="https://github.com/user-attachments/assets/f5bacc70-322c-4e54-8c97-1ae78ba0b149" />
+
 
 ---
 
